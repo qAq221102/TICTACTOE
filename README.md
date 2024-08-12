@@ -1,0 +1,4 @@
+- written in **C**
+- run **tictactoe.exe** then follow the prompt and enjoy a different Tic Tac Toe
+- **special mode**: each player has 3 big pieces and 3 small pieces ex: O O O o o o
+- simply control by keyboard
