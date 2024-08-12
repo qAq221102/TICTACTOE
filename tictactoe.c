@@ -36,8 +36,7 @@ void foreword(char(*mplayerpiece), char (*mremainedpiece)[3], int mroundcounter)
         printf("Hello players, this is tic tac toe made by \"B11207026\"\n");
         printf("BUT THIS IS NOT THE SAME AS THE OTHERS!!\n");
         printf("The new rules are as follows:\n");
-        printf("There are two sizes to each piece, ex: O and o\n");
-        printf("Every player has 3 bigger pieces and 3 smaller pieces\n");
+        printf("Each player has 3 big pieces and 3 small pieces\n");
         printf("Players's first choose must be smaller one\n");
         printf("The bigger one can cover the smaller one but the same size\n");
         printf("--------------------------------------------------------------------\n");
